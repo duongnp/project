@@ -1,0 +1,2368 @@
+fileFormatVersion: 2
+guid: 31536e84189bea54d8f1a24141fb6e1e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MarioTextTure_0
+    21300002: MarioTextTure_1
+    21300004: MarioTextTure_2
+    21300006: MarioTextTure_3
+    21300008: MarioTextTure_4
+    21300010: MarioTextTure_5
+    21300012: MarioTextTure_6
+    21300014: MarioTextTure_7
+    21300016: MarioTextTure_8
+    21300018: MarioTextTure_9
+    21300020: MarioTextTure_10
+    21300022: MarioTextTure_11
+    21300024: MarioTextTure_12
+    21300026: MarioTextTure_13
+    21300028: MarioTextTure_14
+    21300030: MarioTextTure_15
+    21300032: MarioTextTure_16
+    21300034: MarioTextTure_17
+    21300036: MarioTextTure_18
+    21300038: MarioTextTure_19
+    21300040: MarioTextTure_20
+    21300042: MarioTextTure_21
+    21300044: MarioTextTure_22
+    21300046: MarioTextTure_23
+    21300048: MarioTextTure_24
+    21300050: MarioTextTure_25
+    21300052: MarioTextTure_26
+    21300054: MarioTextTure_27
+    21300056: MarioTextTure_28
+    21300058: MarioTextTure_29
+    21300060: MarioTextTure_30
+    21300062: MarioTextTure_31
+    21300064: MarioTextTure_32
+    21300066: MarioTextTure_33
+    21300068: MarioTextTure_34
+    21300070: MarioTextTure_35
+    21300072: MarioTextTure_36
+    21300074: MarioTextTure_37
+    21300076: MarioTextTure_38
+    21300078: MarioTextTure_39
+    21300080: MarioTextTure_40
+    21300082: MarioTextTure_41
+    21300084: MarioTextTure_42
+    21300086: MarioTextTure_43
+    21300088: MarioTextTure_44
+    21300090: MarioTextTure_45
+    21300092: MarioTextTure_46
+    21300094: MarioTextTure_47
+    21300096: MarioTextTure_48
+    21300098: MarioTextTure_49
+    21300100: MarioTextTure_50
+    21300102: MarioTextTure_51
+    21300104: MarioTextTure_52
+    21300106: MarioTextTure_53
+    21300108: MarioTextTure_54
+    21300110: MarioTextTure_55
+    21300112: MarioTextTure_56
+    21300114: MarioTextTure_57
+    21300116: MarioTextTure_58
+    21300118: MarioTextTure_59
+    21300120: MarioTextTure_60
+    21300122: MarioTextTure_61
+    21300124: MarioTextTure_62
+    21300126: MarioTextTure_63
+    21300128: MarioTextTure_64
+    21300130: MarioTextTure_65
+    21300132: MarioTextTure_66
+    21300134: MarioTextTure_67
+    21300136: MarioTextTure_68
+    21300138: MarioTextTure_69
+    21300140: MarioTextTure_70
+    21300142: MarioTextTure_71
+    21300144: MarioTextTure_72
+    21300146: MarioTextTure_73
+    21300148: MarioTextTure_74
+    21300150: MarioTextTure_75
+    21300152: MarioTextTure_76
+    21300154: MarioTextTure_77
+    21300156: MarioTextTure_78
+    21300158: MarioTextTure_79
+    21300160: MarioTextTure_80
+    21300162: MarioTextTure_81
+    21300164: MarioTextTure_82
+    21300166: MarioTextTure_83
+    21300168: MarioTextTure_84
+    21300170: MarioTextTure_85
+    21300172: MarioTextTure_86
+    21300174: MarioTextTure_87
+    21300176: MarioTextTure_88
+    21300178: MarioTextTure_89
+    21300180: MarioTextTure_90
+    21300182: MarioTextTure_91
+    21300184: MarioTextTure_92
+    21300186: MarioTextTure_93
+    21300188: MarioTextTure_94
+    21300190: MarioTextTure_95
+    21300192: MarioTextTure_96
+    21300194: MarioTextTure_97
+    21300196: MarioTextTure_98
+    21300198: MarioTextTure_99
+    21300200: MarioTextTure_100
+    21300202: MarioTextTure_101
+    21300204: MarioTextTure_102
+    21300206: MarioTextTure_103
+    21300208: MarioTextTure_104
+    21300210: MarioTextTure_105
+    21300212: MarioTextTure_106
+    21300214: MarioTextTure_107
+    21300216: MarioTextTure_108
+    21300218: MarioTextTure_109
+    21300220: MarioTextTure_110
+    21300222: MarioTextTure_111
+    21300224: MarioTextTure_112
+    21300226: MarioTextTure_113
+    21300228: MarioTextTure_114
+    21300230: MarioTextTure_115
+    21300232: MarioTextTure_116
+    21300234: MarioTextTure_117
+    21300236: MarioTextTure_118
+    21300238: MarioTextTure_119
+    21300240: MarioTextTure_120
+    21300242: MarioTextTure_121
+    21300244: MarioTextTure_122
+    21300246: MarioTextTure_123
+    21300248: MarioTextTure_124
+    21300250: MarioTextTure_125
+    21300252: MarioTextTure_126
+    21300254: MarioTextTure_127
+    21300256: MarioTextTure_128
+    21300258: MarioTextTure_129
+    21300260: MarioTextTure_130
+    21300262: MarioTextTure_131
+    21300264: MarioTextTure_132
+    21300266: MarioTextTure_133
+    21300268: MarioTextTure_134
+    21300270: MarioTextTure_135
+    21300272: MarioTextTure_136
+    21300274: MarioTextTure_137
+    21300276: MarioTextTure_138
+    21300278: MarioTextTure_139
+    21300280: MarioTextTure_140
+    21300282: MarioTextTure_141
+    21300284: MarioTextTure_142
+    21300286: MarioTextTure_143
+    21300288: MarioTextTure_144
+    21300290: MarioTextTure_145
+    21300292: MarioTextTure_146
+    21300294: MarioTextTure_147
+    21300296: MarioTextTure_148
+    21300298: MarioTextTure_149
+    21300300: MarioTextTure_150
+    21300302: MarioTextTure_151
+    21300304: MarioTextTure_152
+    21300306: MarioTextTure_153
+    21300308: MarioTextTure_154
+    21300310: MarioTextTure_155
+    21300312: MarioTextTure_156
+    21300314: MarioTextTure_157
+    21300316: MarioTextTure_158
+    21300318: MarioTextTure_159
+    21300320: MarioTextTure_160
+    21300322: MarioTextTure_161
+    21300324: MarioTextTure_162
+    21300326: MarioTextTure_163
+    21300328: MarioTextTure_164
+    21300330: MarioTextTure_165
+    21300332: MarioTextTure_166
+    21300334: MarioTextTure_167
+    21300336: MarioTextTure_168
+    21300338: MarioTextTure_169
+    21300340: MarioTextTure_170
+    21300342: MarioTextTure_171
+    21300344: MarioTextTure_172
+    21300346: MarioTextTure_173
+    21300348: MarioTextTure_174
+    21300350: MarioTextTure_175
+    21300352: MarioTextTure_176
+    21300354: MarioTextTure_177
+    21300356: MarioTextTure_178
+    21300358: MarioTextTure_179
+    21300360: MarioTextTure_180
+    21300362: MarioTextTure_181
+    21300364: MarioTextTure_182
+    21300366: MarioTextTure_183
+    21300368: MarioTextTure_184
+    21300370: MarioTextTure_185
+    21300372: MarioTextTure_186
+    21300374: MarioTextTure_187
+    21300376: MarioTextTure_188
+    21300378: MarioTextTure_189
+    21300380: MarioTextTure_190
+    21300382: MarioTextTure_191
+    21300384: MarioTextTure_192
+    21300386: MarioTextTure_193
+    21300388: MarioTextTure_194
+    21300390: MarioTextTure_195
+    21300392: MarioTextTure_196
+    21300394: MarioTextTure_197
+    21300396: MarioTextTure_198
+    21300398: MarioTextTure_199
+    21300400: MarioTextTure_200
+    21300402: MarioTextTure_201
+    21300404: MarioTextTure_202
+    21300406: MarioTextTure_203
+    21300408: MarioTextTure_204
+    21300410: MarioTextTure_205
+    21300412: MarioTextTure_206
+    21300414: MarioTextTure_207
+    21300416: MarioTextTure_208
+    21300418: MarioTextTure_209
+    21300420: MarioTextTure_210
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MarioTextTure_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 679
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 679
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 679
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 679
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 678
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 690
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 687
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 687
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 687
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 688
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 688
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 688
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_13
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 686
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_14
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 686
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 686
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_16
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 686
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_17
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 696
+        width: 254
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 633
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 633
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 633
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 602
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 602
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 601
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 628
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 628
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 629
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_27
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 630
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_28
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 627
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_29
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 627
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_30
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 637
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_31
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 637
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_32
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 637
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_33
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 653
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_34
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 642
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_35
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 573
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_36
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 573
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_37
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 593
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_38
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 593
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_39
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 618
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_40
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 612
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_41
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 618
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 565
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 565
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 542
+        width: 197
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_45
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 555
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 555
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_47
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 555
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_48
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 552
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_49
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 554
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_50
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 574
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_51
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 573
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_52
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 580
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 479
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_54
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 516
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_55
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 479
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 516
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_57
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 479
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 516
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_59
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 477
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_60
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 481
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_61
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 488
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_62
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 491
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_63
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 491
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_64
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 490
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_65
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 491
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_66
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 485
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_67
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 496
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_68
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 529
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_69
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 498
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_70
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 504
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_71
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 512
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_72
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 529
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_73
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 519
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_74
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 498
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_75
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 519
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_76
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 498
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_77
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 498
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_78
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 539
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_79
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 481
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_80
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 520
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_81
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 481
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_82
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 520
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_83
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 481
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_84
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 502
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_85
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 535
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_86
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 505
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_87
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 503
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_88
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 439
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_89
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 439
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_90
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 438
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_91
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 438
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 438
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_93
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 440
+        width: 118
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_94
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 443
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_95
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 444
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 446
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_97
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 446
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_98
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 446
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_99
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 445
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_100
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 444
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_101
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_102
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 442
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_103
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 442
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_104
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_105
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_106
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 442
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_107
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_108
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 347
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 388
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_110
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 388
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_111
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 393
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_112
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 407
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_113
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 405
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_114
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 402
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_115
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 402
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_116
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 404
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_117
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 403
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_118
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 403
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_119
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 403
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_120
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_121
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_122
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 391
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_124
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 339
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_125
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 355
+        width: 96
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_126
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 343
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_127
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_128
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_129
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_130
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_131
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_132
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_133
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_134
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_135
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 362
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_136
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_137
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_138
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_139
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_140
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_141
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_142
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_143
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_144
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_145
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 268
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_146
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 271
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 299
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_148
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 299
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_149
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 299
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_150
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 302
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_151
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 302
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_152
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 302
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_153
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 302
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_154
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_155
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_156
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_157
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 314
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_158
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 314
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_159
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 314
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_160
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_161
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_162
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_163
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_164
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_165
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 316
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_166
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 253
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_167
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 278
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_168
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 294
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_169
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 288
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_170
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 294
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_171
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 223
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_172
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 244
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_173
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 234
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_174
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 150
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_175
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 260
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_176
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 90
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_177
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 123
+        width: 373
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_178
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 161
+        width: 178
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_179
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 227
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_180
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 177
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_181
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 194
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_182
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 185
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_183
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 194
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_184
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 178
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_185
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 178
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_186
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 134
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_187
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 134
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_188
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 133
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_189
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 111
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_190
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 115
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_191
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 78
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_192
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 60
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_193
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 109
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_194
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 98
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_195
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 113
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_196
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 113
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_197
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 113
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_198
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 113
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_199
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_200
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 61
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_201
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 64
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_202
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 64
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_203
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_204
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_205
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_206
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_207
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 34
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_208
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 34
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_209
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 35
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MarioTextTure_210
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 60
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
